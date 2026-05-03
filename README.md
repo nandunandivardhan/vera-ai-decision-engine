@@ -1,3 +1,9 @@
+##  Problem Solved
+Businesses struggle to send the right message to the right customer at the right time.
+
+##  Solution
+This AI system analyzes context (customer behavior, demand, time) and generates optimized marketing messages with measurable impact.
+
 # VERA AI Decision Engine
 
 This project is an AI-powered decision system built for the Magicpin VERA AI Challenge.
